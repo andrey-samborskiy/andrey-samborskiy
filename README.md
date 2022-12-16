@@ -11,5 +11,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 ![Jest](https://img.shields.io/badge/-JEST-333333?style=flat&logo=JEST&logoColor=C21325)&nbsp;
+![Next.js](https://img.shields.io/badge/-nextdotjs-333333?style=flat&logo=nextdotjs)&nbsp;
 
 <br />
